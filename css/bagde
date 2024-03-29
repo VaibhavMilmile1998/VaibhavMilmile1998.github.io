@@ -1,0 +1,9 @@
+.certification-badges {
+    margin-bottom: 20px;
+}
+
+.certification-badges img {
+    width: 100px; /* Adjust the width of the badges as needed */
+    height: auto;
+    margin-right: 10px; /* Adjust spacing between badges */
+}
